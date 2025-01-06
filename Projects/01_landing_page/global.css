@@ -1,0 +1,14 @@
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
+.bg-dark {
+  background: #393e41;
+}
+
+.bg-primary {
+  background: #e94f37;
+}
+.bg-light {
+  background: #f6f7eb;
+}

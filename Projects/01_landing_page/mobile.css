@@ -1,0 +1,14 @@
+#navbar {
+  flex-direction: column;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  overflow: hidden;
+  height: 80px;
+}
+
+#home img {
+  height: 300px;
+  width: 300px;
+  border-radius: 50%;
+  border: 5px solid #e94f37;
+}
